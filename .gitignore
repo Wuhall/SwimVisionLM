@@ -106,8 +106,4 @@ venv.bak/
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
-# file
-*.mp4
-*.jpg
-
 # End of https://www.toptal.com/developers/gitignore/api/python
